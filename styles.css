@@ -151,6 +151,16 @@ ul > li {
 .call-to-action-text-two {
   font-size: 13px;
 }
+footer {
+  color: #f9faf8;
+  background: #1f2937;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+
 /* button */
 .btn {
   padding: 0.4rem 1.6rem;

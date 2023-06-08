@@ -121,3 +121,23 @@ button {
 .box-containers p {
   padding-right: 2.8rem;
 }
+.quote-container {
+  margin-top: 55px;
+  height: 320px;
+  background: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 7rem 15rem; */
+}
+.quote-container .quote {
+  font-size: 26px;
+  color: #1f2937;
+  width: 600px;
+}
+.quote-container .author {
+  margin-left: 350px;
+  font-weight: 600;
+  font-size: 18px;
+}
